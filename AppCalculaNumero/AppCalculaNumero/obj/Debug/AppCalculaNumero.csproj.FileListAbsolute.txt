@@ -1,0 +1,5 @@
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppCalculaNumero\AppCalculaNumero\bin\Debug\AppCalculaNumero.exe.config
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppCalculaNumero\AppCalculaNumero\bin\Debug\AppCalculaNumero.exe
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppCalculaNumero\AppCalculaNumero\bin\Debug\AppCalculaNumero.pdb
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppCalculaNumero\AppCalculaNumero\obj\Debug\AppCalculaNumero.exe
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppCalculaNumero\AppCalculaNumero\obj\Debug\AppCalculaNumero.pdb

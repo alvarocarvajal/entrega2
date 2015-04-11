@@ -1,0 +1,5 @@
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppPromedioNumeros\AppPromedioNumeros\bin\Debug\AppPromedioNumeros.exe.config
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppPromedioNumeros\AppPromedioNumeros\bin\Debug\AppPromedioNumeros.exe
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppPromedioNumeros\AppPromedioNumeros\bin\Debug\AppPromedioNumeros.pdb
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppPromedioNumeros\AppPromedioNumeros\obj\Debug\AppPromedioNumeros.exe
+c:\users\lab104bpc8\documents\visual studio 2012\Projects\AppPromedioNumeros\AppPromedioNumeros\obj\Debug\AppPromedioNumeros.pdb
